@@ -24,6 +24,5 @@ A compilation of solutions and various notes for the Damn Vulnerable Web App (DV
 
 Any questions, comments, concerns? Let me know. Have fun!
 
--Mark
+-r00thunter
 <br>
-Twitter: @markrudnitsky
